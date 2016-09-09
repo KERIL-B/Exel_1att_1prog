@@ -76,6 +76,7 @@ namespace DataGridViewProject
         private void changeB_Click(object sender, EventArgs e)
         {
             IClass.ChangeInput(changeInputTB, tableDGV);
+            changeInputTB.Text = "";
         }
 
         private void colourB_Click(object sender, EventArgs e)

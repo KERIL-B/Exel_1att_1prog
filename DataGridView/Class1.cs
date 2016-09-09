@@ -101,9 +101,15 @@ namespace DataGridViewProject
         public void ChangeInput(TextBox newInputTB, DataGridView table)
         {
             string newInput = newInputTB.Text;
+            
             try
             {
-                table.CurrentCell.Value = newInput;
+                if (table.CurrentCell.ColumnIndex == 0)
+                {
+                    table.CurrentCell.Value = 0;
+                }
+                else
+                    table.CurrentCell.Value = newInput;
             }
             catch (Exception)
             {
