@@ -1,0 +1,9 @@
+E:\vs2012\1progs\3dSemestr\DataGridView\DataGridView\bin\Debug\DataGridView.exe.config
+E:\vs2012\1progs\3dSemestr\DataGridView\DataGridView\bin\Debug\DataGridView.exe
+E:\vs2012\1progs\3dSemestr\DataGridView\DataGridView\bin\Debug\DataGridView.pdb
+E:\vs2012\1progs\3dSemestr\DataGridView\DataGridView\obj\Debug\DataGridView.csprojResolveAssemblyReference.cache
+E:\vs2012\1progs\3dSemestr\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.Cache
+E:\vs2012\1progs\3dSemestr\DataGridView\DataGridView\obj\Debug\DataGridView.exe
+E:\vs2012\1progs\3dSemestr\DataGridView\DataGridView\obj\Debug\DataGridView.pdb
+E:\vs2012\1progs\3dSemestr\DataGridView\DataGridView\obj\Debug\DataGridViewProject.Form1.resources
+E:\vs2012\1progs\3dSemestr\DataGridView\DataGridView\obj\Debug\DataGridViewProject.Properties.Resources.resources
